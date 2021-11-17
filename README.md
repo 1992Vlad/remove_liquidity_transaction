@@ -1,3 +1,5 @@
+# Please add me as an Agent Developer [Published] on Discord, my discord username is BaranovVlad#3217
+
 # New PancakeSwap pool Agent
 
 ## Description
